@@ -1,0 +1,260 @@
+@font-face {
+  font-family: 'icons';
+  src: url("../fonts/icons.woff2") format("woff2"), url("../fonts/icons.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+[data-icon]:before {
+  font-family: "icons" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+[class^="i-"]:before,
+[class*=" i-"]:before {
+  font-family: "icons" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.i-c-fb:before {
+  content: "\61"; }
+
+.i-c-in:before {
+  content: "\63"; }
+
+.i-c-gp:before {
+  content: "\65"; }
+
+.i-c-vk:before {
+  content: "\62"; }
+
+.i-chevron-down:before {
+  content: "\64"; }
+
+.i-chevron-left:before {
+  content: "\66"; }
+
+.i-chevron-right:before {
+  content: "\67"; }
+
+.i-chevron-up:before {
+  content: "\68"; }
+
+.i-phone:before {
+  content: "\6a"; }
+
+.i-stumbleupon-circled:before {
+  content: "\6b"; }
+
+.i-dollar:before {
+  content: "\6e"; }
+
+.i-search:before {
+  content: "\6f"; }
+
+.i-angle-down:before {
+  content: "\70"; }
+
+.i-angle-left:before {
+  content: "\71"; }
+
+.i-angle-right:before {
+  content: "\72"; }
+
+.i-angle-up:before {
+  content: "\73"; }
+
+.i-arrow-down:before {
+  content: "\74"; }
+
+.i-arrow-left:before {
+  content: "\75"; }
+
+.i-arrow-right:before {
+  content: "\76"; }
+
+.i-arrow-up:before {
+  content: "\77"; }
+
+.i-bookmark:before {
+  content: "\78"; }
+
+.i-c-git:before {
+  content: "\69"; }
+
+.i-long-arrow-down:before {
+  content: "\79"; }
+
+.i-long-arrow-left:before {
+  content: "\7a"; }
+
+.i-long-arrow-right:before {
+  content: "\41"; }
+
+.i-long-arrow-up:before {
+  content: "\42"; }
+
+.i-phone-square:before {
+  content: "\43"; }
+
+.i-c-pt:before {
+  content: "\45"; }
+
+.i-quote-left:before {
+  content: "\44"; }
+
+.i-quote-right:before {
+  content: "\46"; }
+
+.i-rss:before {
+  content: "\47"; }
+
+.i-shopping-cart:before {
+  content: "\48"; }
+
+.i-star-half-o:before {
+  content: "\49"; }
+
+.i-star-o:before {
+  content: "\4a"; }
+
+.i-star-1:before {
+  content: "\4b"; }
+
+.i-c-st:before {
+  content: "\4c"; }
+
+.i-times-circle:before {
+  content: "\4d"; }
+
+.i-times:before {
+  content: "\4e"; }
+
+.i-trash:before {
+  content: "\4f"; }
+
+.i-c-tw:before {
+  content: "\50"; }
+
+.i-usd:before {
+  content: "\51"; }
+
+.i-c-wp:before {
+  content: "\52"; }
+
+.i-c-yb:before {
+  content: "\53"; }
+
+.i-c-yp:before {
+  content: "\54"; }
+
+.i-check:before {
+  content: "\59"; }
+
+.i-marker:before {
+  content: "\31"; }
+
+.i-mail:before {
+  content: "\32"; }
+
+.i-euro:before {
+  content: "\33"; }
+
+.i-photo:before {
+  content: "\34"; }
+
+.i-comments:before {
+  content: "\6c"; }
+
+.i-user:before {
+  content: "\6d"; }
+
+.i-calendar:before {
+  content: "\55"; }
+
+.i-tags:before {
+  content: "\56"; }
+
+.i-location-arrow:before {
+  content: "\57"; }
+
+.i-c-inst:before {
+  content: "\58"; }
+
+.i-apl:before {
+  content: "\5a"; }
+
+.i-and:before {
+  content: "\30"; }
+
+.i-win:before {
+  content: "\35"; }
+
+.i-gp:before {
+  content: "\36"; }
+
+.i-play:before {
+  content: "\37"; }
+
+.i-c-vm:before {
+  content: "\38"; }
+
+.i-bullhorn:before {
+  content: "\39"; }
+
+.i-home:before {
+  content: "\21"; }
+
+.i-phone-1:before {
+  content: "\22"; }
+
+.i-upload:before {
+  content: "\23"; }
+
+.i-printer-1:before {
+  content: "\24"; }
+
+.i-clock:before {
+  content: "\25"; }
+
+.i-d:before {
+  content: "\26"; }
+
+.i-c-sk-c:before {
+  content: "\27"; }
+
+.i-c-sk:before {
+  content: "\28"; }
+
+.i-forward:before {
+  content: "\29"; }
+
+.i-user-add:before {
+  content: "\2a"; }
+
+.i-users:before {
+  content: "\2b"; }
+
+.i-info:before {
+  content: "\2c"; }
+
+.i-thumbs-up:before {
+  content: "\2d"; }
+
+.i-attach:before {
+  content: "\2e"; }
+
+.i-filter:before {
+  content: "\2f"; }
